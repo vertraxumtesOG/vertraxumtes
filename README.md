@@ -1,6 +1,7 @@
-Hello, im vertraxumtes :D i
+👋 Hi there
 
-m programming in JavaScript, Java, C# and more :)
+👨‍💻 I'm vertraxumtes
 
-If you have questions about programming DM me on Discord.
--> vertraxumtes 🦋#6969
+☕ I code JavaScript, Java & Python Discord Bots
+
+📫 Currently im coding on my Bot Chip 
